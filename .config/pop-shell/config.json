@@ -1,0 +1,12 @@
+{
+  "float": [
+    {
+      "class": "pop-shell-example",
+      "title": "pop-shell-example"
+    },
+    {
+      "class": "Timeshift-gtk"
+    }
+  ],
+  "log_on_focus": false
+}
