@@ -6,7 +6,12 @@
     },
     {
       "class": "Timeshift-gtk"
+    },
+    {
+      "class": "Firefox",
+      "title": "About Mozilla Firefox"
     }
   ],
+  "skiptaskbarhidden": [],
   "log_on_focus": false
 }
