@@ -10,6 +10,9 @@
     {
       "class": "Firefox",
       "title": "About Mozilla Firefox"
+    },
+    {
+      "class": "SpiderOakONE"
     }
   ],
   "skiptaskbarhidden": [],
